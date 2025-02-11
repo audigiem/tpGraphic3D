@@ -1,0 +1,7 @@
+# format file to ignore
+*.log
+*.pdf
+*.doc
+*.blend
+*.ply
+*.pyc
